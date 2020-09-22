@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\BasicColletcion\BasicColletcion\bin\Debug\netcoreapp3.1\BasicColletcion.exe
+C:\Users\student\source\repos\BasicColletcion\BasicColletcion\bin\Debug\netcoreapp3.1\BasicColletcion.deps.json
+C:\Users\student\source\repos\BasicColletcion\BasicColletcion\bin\Debug\netcoreapp3.1\BasicColletcion.runtimeconfig.json
+C:\Users\student\source\repos\BasicColletcion\BasicColletcion\bin\Debug\netcoreapp3.1\BasicColletcion.runtimeconfig.dev.json
+C:\Users\student\source\repos\BasicColletcion\BasicColletcion\bin\Debug\netcoreapp3.1\BasicColletcion.dll
+C:\Users\student\source\repos\BasicColletcion\BasicColletcion\bin\Debug\netcoreapp3.1\BasicColletcion.pdb
+C:\Users\student\source\repos\BasicColletcion\BasicColletcion\obj\Debug\netcoreapp3.1\BasicColletcion.csprojAssemblyReference.cache
+C:\Users\student\source\repos\BasicColletcion\BasicColletcion\obj\Debug\netcoreapp3.1\BasicColletcion.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\BasicColletcion\BasicColletcion\obj\Debug\netcoreapp3.1\BasicColletcion.AssemblyInfo.cs
+C:\Users\student\source\repos\BasicColletcion\BasicColletcion\obj\Debug\netcoreapp3.1\BasicColletcion.dll
+C:\Users\student\source\repos\BasicColletcion\BasicColletcion\obj\Debug\netcoreapp3.1\BasicColletcion.pdb
