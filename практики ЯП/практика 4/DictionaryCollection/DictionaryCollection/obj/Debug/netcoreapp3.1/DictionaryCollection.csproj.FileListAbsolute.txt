@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\DictionaryCollection\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.exe
+C:\Users\student\source\repos\DictionaryCollection\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.deps.json
+C:\Users\student\source\repos\DictionaryCollection\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.runtimeconfig.json
+C:\Users\student\source\repos\DictionaryCollection\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.runtimeconfig.dev.json
+C:\Users\student\source\repos\DictionaryCollection\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.dll
+C:\Users\student\source\repos\DictionaryCollection\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.pdb
+C:\Users\student\source\repos\DictionaryCollection\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.csprojAssemblyReference.cache
+C:\Users\student\source\repos\DictionaryCollection\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\DictionaryCollection\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.AssemblyInfo.cs
+C:\Users\student\source\repos\DictionaryCollection\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.dll
+C:\Users\student\source\repos\DictionaryCollection\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.pdb

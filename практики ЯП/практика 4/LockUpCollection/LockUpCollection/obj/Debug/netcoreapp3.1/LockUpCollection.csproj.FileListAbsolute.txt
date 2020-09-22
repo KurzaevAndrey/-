@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\LockUpCollection\LockUpCollection\bin\Debug\netcoreapp3.1\LockUpCollection.exe
+C:\Users\student\source\repos\LockUpCollection\LockUpCollection\bin\Debug\netcoreapp3.1\LockUpCollection.deps.json
+C:\Users\student\source\repos\LockUpCollection\LockUpCollection\bin\Debug\netcoreapp3.1\LockUpCollection.runtimeconfig.json
+C:\Users\student\source\repos\LockUpCollection\LockUpCollection\bin\Debug\netcoreapp3.1\LockUpCollection.runtimeconfig.dev.json
+C:\Users\student\source\repos\LockUpCollection\LockUpCollection\bin\Debug\netcoreapp3.1\LockUpCollection.dll
+C:\Users\student\source\repos\LockUpCollection\LockUpCollection\bin\Debug\netcoreapp3.1\LockUpCollection.pdb
+C:\Users\student\source\repos\LockUpCollection\LockUpCollection\obj\Debug\netcoreapp3.1\LockUpCollection.csprojAssemblyReference.cache
+C:\Users\student\source\repos\LockUpCollection\LockUpCollection\obj\Debug\netcoreapp3.1\LockUpCollection.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\LockUpCollection\LockUpCollection\obj\Debug\netcoreapp3.1\LockUpCollection.AssemblyInfo.cs
+C:\Users\student\source\repos\LockUpCollection\LockUpCollection\obj\Debug\netcoreapp3.1\LockUpCollection.dll
+C:\Users\student\source\repos\LockUpCollection\LockUpCollection\obj\Debug\netcoreapp3.1\LockUpCollection.pdb

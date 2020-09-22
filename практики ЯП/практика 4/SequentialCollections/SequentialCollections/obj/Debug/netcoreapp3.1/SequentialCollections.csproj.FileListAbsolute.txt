@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\SequentialCollections\SequentialCollections\bin\Debug\netcoreapp3.1\SequentialCollections.exe
+C:\Users\student\source\repos\SequentialCollections\SequentialCollections\bin\Debug\netcoreapp3.1\SequentialCollections.deps.json
+C:\Users\student\source\repos\SequentialCollections\SequentialCollections\bin\Debug\netcoreapp3.1\SequentialCollections.runtimeconfig.json
+C:\Users\student\source\repos\SequentialCollections\SequentialCollections\bin\Debug\netcoreapp3.1\SequentialCollections.runtimeconfig.dev.json
+C:\Users\student\source\repos\SequentialCollections\SequentialCollections\bin\Debug\netcoreapp3.1\SequentialCollections.dll
+C:\Users\student\source\repos\SequentialCollections\SequentialCollections\bin\Debug\netcoreapp3.1\SequentialCollections.pdb
+C:\Users\student\source\repos\SequentialCollections\SequentialCollections\obj\Debug\netcoreapp3.1\SequentialCollections.csprojAssemblyReference.cache
+C:\Users\student\source\repos\SequentialCollections\SequentialCollections\obj\Debug\netcoreapp3.1\SequentialCollections.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\SequentialCollections\SequentialCollections\obj\Debug\netcoreapp3.1\SequentialCollections.AssemblyInfo.cs
+C:\Users\student\source\repos\SequentialCollections\SequentialCollections\obj\Debug\netcoreapp3.1\SequentialCollections.dll
+C:\Users\student\source\repos\SequentialCollections\SequentialCollections\obj\Debug\netcoreapp3.1\SequentialCollections.pdb
