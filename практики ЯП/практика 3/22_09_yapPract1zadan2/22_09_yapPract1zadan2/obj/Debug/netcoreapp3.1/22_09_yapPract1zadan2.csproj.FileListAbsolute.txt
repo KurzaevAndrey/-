@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\22_09_yapPract1zadan2\22_09_yapPract1zadan2\obj\Debug\netcoreapp3.1\22_09_yapPract1zadan2.csprojAssemblyReference.cache
+C:\Users\student\source\repos\22_09_yapPract1zadan2\22_09_yapPract1zadan2\obj\Debug\netcoreapp3.1\22_09_yapPract1zadan2.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\22_09_yapPract1zadan2\22_09_yapPract1zadan2\obj\Debug\netcoreapp3.1\22_09_yapPract1zadan2.AssemblyInfo.cs
+C:\Users\student\source\repos\22_09_yapPract1zadan2\22_09_yapPract1zadan2\bin\Debug\netcoreapp3.1\22_09_yapPract1zadan2.exe
+C:\Users\student\source\repos\22_09_yapPract1zadan2\22_09_yapPract1zadan2\bin\Debug\netcoreapp3.1\22_09_yapPract1zadan2.deps.json
+C:\Users\student\source\repos\22_09_yapPract1zadan2\22_09_yapPract1zadan2\bin\Debug\netcoreapp3.1\22_09_yapPract1zadan2.runtimeconfig.json
+C:\Users\student\source\repos\22_09_yapPract1zadan2\22_09_yapPract1zadan2\bin\Debug\netcoreapp3.1\22_09_yapPract1zadan2.runtimeconfig.dev.json
+C:\Users\student\source\repos\22_09_yapPract1zadan2\22_09_yapPract1zadan2\bin\Debug\netcoreapp3.1\22_09_yapPract1zadan2.dll
+C:\Users\student\source\repos\22_09_yapPract1zadan2\22_09_yapPract1zadan2\bin\Debug\netcoreapp3.1\22_09_yapPract1zadan2.pdb
+C:\Users\student\source\repos\22_09_yapPract1zadan2\22_09_yapPract1zadan2\obj\Debug\netcoreapp3.1\22_09_yapPract1zadan2.dll
+C:\Users\student\source\repos\22_09_yapPract1zadan2\22_09_yapPract1zadan2\obj\Debug\netcoreapp3.1\22_09_yapPract1zadan2.pdb

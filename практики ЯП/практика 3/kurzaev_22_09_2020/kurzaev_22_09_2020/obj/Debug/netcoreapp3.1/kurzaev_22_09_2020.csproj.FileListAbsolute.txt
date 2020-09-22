@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\kurzaev_22_09_2020\kurzaev_22_09_2020\bin\Debug\netcoreapp3.1\kurzaev_22_09_2020.exe
+C:\Users\student\source\repos\kurzaev_22_09_2020\kurzaev_22_09_2020\bin\Debug\netcoreapp3.1\kurzaev_22_09_2020.deps.json
+C:\Users\student\source\repos\kurzaev_22_09_2020\kurzaev_22_09_2020\bin\Debug\netcoreapp3.1\kurzaev_22_09_2020.runtimeconfig.json
+C:\Users\student\source\repos\kurzaev_22_09_2020\kurzaev_22_09_2020\bin\Debug\netcoreapp3.1\kurzaev_22_09_2020.runtimeconfig.dev.json
+C:\Users\student\source\repos\kurzaev_22_09_2020\kurzaev_22_09_2020\bin\Debug\netcoreapp3.1\kurzaev_22_09_2020.dll
+C:\Users\student\source\repos\kurzaev_22_09_2020\kurzaev_22_09_2020\bin\Debug\netcoreapp3.1\kurzaev_22_09_2020.pdb
+C:\Users\student\source\repos\kurzaev_22_09_2020\kurzaev_22_09_2020\obj\Debug\netcoreapp3.1\kurzaev_22_09_2020.csprojAssemblyReference.cache
+C:\Users\student\source\repos\kurzaev_22_09_2020\kurzaev_22_09_2020\obj\Debug\netcoreapp3.1\kurzaev_22_09_2020.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\kurzaev_22_09_2020\kurzaev_22_09_2020\obj\Debug\netcoreapp3.1\kurzaev_22_09_2020.AssemblyInfo.cs
+C:\Users\student\source\repos\kurzaev_22_09_2020\kurzaev_22_09_2020\obj\Debug\netcoreapp3.1\kurzaev_22_09_2020.dll
+C:\Users\student\source\repos\kurzaev_22_09_2020\kurzaev_22_09_2020\obj\Debug\netcoreapp3.1\kurzaev_22_09_2020.pdb
