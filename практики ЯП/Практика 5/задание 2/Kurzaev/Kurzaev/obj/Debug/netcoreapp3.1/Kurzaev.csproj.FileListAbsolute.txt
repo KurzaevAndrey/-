@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\Kurzaev\Kurzaev\bin\Debug\netcoreapp3.1\Kurzaev.exe
+C:\Users\student\source\repos\Kurzaev\Kurzaev\bin\Debug\netcoreapp3.1\Kurzaev.deps.json
+C:\Users\student\source\repos\Kurzaev\Kurzaev\bin\Debug\netcoreapp3.1\Kurzaev.runtimeconfig.json
+C:\Users\student\source\repos\Kurzaev\Kurzaev\bin\Debug\netcoreapp3.1\Kurzaev.runtimeconfig.dev.json
+C:\Users\student\source\repos\Kurzaev\Kurzaev\bin\Debug\netcoreapp3.1\Kurzaev.dll
+C:\Users\student\source\repos\Kurzaev\Kurzaev\bin\Debug\netcoreapp3.1\Kurzaev.pdb
+C:\Users\student\source\repos\Kurzaev\Kurzaev\obj\Debug\netcoreapp3.1\Kurzaev.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Kurzaev\Kurzaev\obj\Debug\netcoreapp3.1\Kurzaev.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Kurzaev\Kurzaev\obj\Debug\netcoreapp3.1\Kurzaev.AssemblyInfo.cs
+C:\Users\student\source\repos\Kurzaev\Kurzaev\obj\Debug\netcoreapp3.1\Kurzaev.dll
+C:\Users\student\source\repos\Kurzaev\Kurzaev\obj\Debug\netcoreapp3.1\Kurzaev.pdb
