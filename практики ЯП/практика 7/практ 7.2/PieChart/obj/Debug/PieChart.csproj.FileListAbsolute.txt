@@ -1,0 +1,8 @@
+D:\Downloads\--master\--master\практики ЯП\Lesson3-Exercise2-PieChart-CS\PieChart\bin\Debug\PieChart.exe
+D:\Downloads\--master\--master\практики ЯП\Lesson3-Exercise2-PieChart-CS\PieChart\bin\Debug\PieChart.pdb
+D:\Downloads\--master\--master\практики ЯП\Lesson3-Exercise2-PieChart-CS\PieChart\obj\Debug\PieChart.csprojAssemblyReference.cache
+D:\Downloads\--master\--master\практики ЯП\Lesson3-Exercise2-PieChart-CS\PieChart\obj\Debug\PieChart.Form1.resources
+D:\Downloads\--master\--master\практики ЯП\Lesson3-Exercise2-PieChart-CS\PieChart\obj\Debug\PieChart.Properties.Resources.resources
+D:\Downloads\--master\--master\практики ЯП\Lesson3-Exercise2-PieChart-CS\PieChart\obj\Debug\PieChart.csproj.GenerateResource.cache
+D:\Downloads\--master\--master\практики ЯП\Lesson3-Exercise2-PieChart-CS\PieChart\obj\Debug\PieChart.exe
+D:\Downloads\--master\--master\практики ЯП\Lesson3-Exercise2-PieChart-CS\PieChart\obj\Debug\PieChart.pdb
