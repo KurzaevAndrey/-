@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\netcoreapp3.1\SimpleThreadingDemo.exe
+C:\Users\student\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\netcoreapp3.1\SimpleThreadingDemo.deps.json
+C:\Users\student\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\netcoreapp3.1\SimpleThreadingDemo.runtimeconfig.json
+C:\Users\student\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\netcoreapp3.1\SimpleThreadingDemo.runtimeconfig.dev.json
+C:\Users\student\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\netcoreapp3.1\SimpleThreadingDemo.dll
+C:\Users\student\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\netcoreapp3.1\SimpleThreadingDemo.pdb
+C:\Users\student\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\netcoreapp3.1\SimpleThreadingDemo.csprojAssemblyReference.cache
+C:\Users\student\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\netcoreapp3.1\SimpleThreadingDemo.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\netcoreapp3.1\SimpleThreadingDemo.AssemblyInfo.cs
+C:\Users\student\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\netcoreapp3.1\SimpleThreadingDemo.dll
+C:\Users\student\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\netcoreapp3.1\SimpleThreadingDemo.pdb
