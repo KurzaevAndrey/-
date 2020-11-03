@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\second_application\second_application\obj\Debug\second_application.csprojAssemblyReference.cache
+C:\Users\student\source\repos\second_application\second_application\obj\Debug\second_application.Form1.resources
+C:\Users\student\source\repos\second_application\second_application\obj\Debug\second_application.Properties.Resources.resources
+C:\Users\student\source\repos\second_application\second_application\obj\Debug\second_application.csproj.GenerateResource.cache
+C:\Users\student\source\repos\second_application\second_application\bin\Debug\second_application.exe.config
+C:\Users\student\source\repos\second_application\second_application\bin\Debug\second_application.exe
+C:\Users\student\source\repos\second_application\second_application\bin\Debug\second_application.pdb
+C:\Users\student\source\repos\second_application\second_application\obj\Debug\second_application.exe
+C:\Users\student\source\repos\second_application\second_application\obj\Debug\second_application.pdb
