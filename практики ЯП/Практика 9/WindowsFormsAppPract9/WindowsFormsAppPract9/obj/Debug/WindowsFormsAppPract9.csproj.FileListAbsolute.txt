@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\WindowsFormsAppPract9\WindowsFormsAppPract9\bin\Debug\WindowsFormsAppPract9.exe.config
+C:\Users\student\source\repos\WindowsFormsAppPract9\WindowsFormsAppPract9\bin\Debug\WindowsFormsAppPract9.exe
+C:\Users\student\source\repos\WindowsFormsAppPract9\WindowsFormsAppPract9\bin\Debug\WindowsFormsAppPract9.pdb
+C:\Users\student\source\repos\WindowsFormsAppPract9\WindowsFormsAppPract9\obj\Debug\WindowsFormsAppPract9.csprojAssemblyReference.cache
+C:\Users\student\source\repos\WindowsFormsAppPract9\WindowsFormsAppPract9\obj\Debug\WindowsFormsAppPract9.Form1.resources
+C:\Users\student\source\repos\WindowsFormsAppPract9\WindowsFormsAppPract9\obj\Debug\WindowsFormsAppPract9.Properties.Resources.resources
+C:\Users\student\source\repos\WindowsFormsAppPract9\WindowsFormsAppPract9\obj\Debug\WindowsFormsAppPract9.csproj.GenerateResource.cache
+C:\Users\student\source\repos\WindowsFormsAppPract9\WindowsFormsAppPract9\obj\Debug\WindowsFormsAppPract9.exe
+C:\Users\student\source\repos\WindowsFormsAppPract9\WindowsFormsAppPract9\obj\Debug\WindowsFormsAppPract9.pdb
