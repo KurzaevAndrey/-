@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\kurzaev_09_02_ind\kurzaev_09_02_ind\bin\Debug\kurzaev_09_02_ind.exe.config
+C:\Users\student\source\repos\kurzaev_09_02_ind\kurzaev_09_02_ind\bin\Debug\kurzaev_09_02_ind.exe
+C:\Users\student\source\repos\kurzaev_09_02_ind\kurzaev_09_02_ind\bin\Debug\kurzaev_09_02_ind.pdb
+C:\Users\student\source\repos\kurzaev_09_02_ind\kurzaev_09_02_ind\obj\Debug\kurzaev_09_02_ind.csprojAssemblyReference.cache
+C:\Users\student\source\repos\kurzaev_09_02_ind\kurzaev_09_02_ind\obj\Debug\kurzaev_09_02_ind.Form1.resources
+C:\Users\student\source\repos\kurzaev_09_02_ind\kurzaev_09_02_ind\obj\Debug\kurzaev_09_02_ind.Properties.Resources.resources
+C:\Users\student\source\repos\kurzaev_09_02_ind\kurzaev_09_02_ind\obj\Debug\kurzaev_09_02_ind.csproj.GenerateResource.cache
+C:\Users\student\source\repos\kurzaev_09_02_ind\kurzaev_09_02_ind\obj\Debug\kurzaev_09_02_ind.exe
+C:\Users\student\source\repos\kurzaev_09_02_ind\kurzaev_09_02_ind\obj\Debug\kurzaev_09_02_ind.pdb
